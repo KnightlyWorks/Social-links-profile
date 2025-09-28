@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/KnightlyWorks/social-links-profile/)
-- Live Site URL: [Add live site URL here](https://knightlyworks.github.io/social-links-profile/)
+- Live Site URL: [Add live site URL here](https://knightlyworks.github.io/Social-links-profile/)
 
 ## My process
 
